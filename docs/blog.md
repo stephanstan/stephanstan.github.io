@@ -8,6 +8,7 @@ React Notes
  [Udemy online learning ](https://www.udemy.com)
  
 [most basic react tutorial](https://www.taniarascia.com/getting-started-with-react/)
+
 [mostBasicReast.html from most basic example](https://stephanstan.github.io/examples/mostBasicReact.html)
 
 
@@ -24,3 +25,7 @@ C:\Users\stephan.stan\AppData\Roaming\npm\npm -> C:\Users\stephan.stan\AppData\R
 js
 + npm@6.5.0
 added 2 packages from 1 contributor and updated 14 packages in 61.845s
+
+
+npx create-react-app react-tutorial
+
