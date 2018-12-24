@@ -30,3 +30,6 @@ added 2 packages from 1 contributor and updated 14 packages in 61.845s
 npx create-react-app react-tutorial
 
 npm start
+
+[Chrome has a REact developer tool]
+(https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
