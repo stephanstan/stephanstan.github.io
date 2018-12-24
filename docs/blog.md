@@ -7,3 +7,4 @@ React Notes
 
  [Udemy online learning ](https://www.udemy.com)
  
+[most basic react tutorial](https://www.taniarascia.com/getting-started-with-react/)
