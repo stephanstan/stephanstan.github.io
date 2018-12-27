@@ -35,7 +35,7 @@ npm start
 
 2018-12-27
 [testing with postman](http://toolsqa.com/postman/api-testing-with-postman/)   DF reference
-
+[postman tutorial outline](http://toolsqa.com/postman-tutorial/)
 
 2018-12-27
 [on the road to react tutorial](https://www.robinwieruch.de/the-road-to-learn-react/)
