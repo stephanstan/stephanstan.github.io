@@ -32,3 +32,6 @@ npx create-react-app react-tutorial
 npm start
 
 [Chrome has a REact developer tool](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+
+2018-12-27
+[testing with postman](http://toolsqa.com/postman/api-testing-with-postman/)   DF reference
