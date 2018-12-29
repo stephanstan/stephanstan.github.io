@@ -39,3 +39,5 @@ npm start
 
 2018-12-27
 [on the road to react tutorial](https://www.robinwieruch.de/the-road-to-learn-react/)
+
+[how to connect to an API with Javascript](https://www.taniarascia.com/how-to-connect-to-an-api-with-javascript/)
