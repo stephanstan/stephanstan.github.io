@@ -20,6 +20,18 @@ xmlhttp.onreadystatechange = function() {
 
 xmlhttp.open("GET", "demo.txt", true);
 xmlhttp.send();
+  
+var jsonData = [{person:"me", age :"30"},{person:"you",age:"25"}];
+
+for(var obj in jsonData){
+    if(jsonData.hasOwnProperty(obj)){
+    for(var prop in jsonData[obj]){
+        if(jsonData[obj].hasOwnProperty(prop)){
+           alert(prop + ':' + jsonData[obj][prop]);
+        }
+    }
+}
+}  
 </script>
 
 <p>Take a look at <a href="demo.txt" target="_blank">demo.txt</a></p>
