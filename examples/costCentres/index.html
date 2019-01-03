@@ -13,7 +13,14 @@ var xmlhttp = new XMLHttpRequest();
 xmlhttp.onreadystatechange = function() {
   if (this.readyState == 4 && this.status == 200) {
     var myObj = JSON.parse(this.responseText);
-    document.getElementById("demo").innerHTML = myObj;
+    
+  for (i in myObj.[0]) {
+     x += "<h2>" + myObj.name[i] + "</h2><br>";
+  }
+}
+    
+//    document.getElementById("demo").innerHTML = myObj;
+      document.getElementById("demo").innerHTML = x;
   }
 };
 
