@@ -1,11 +1,29 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Use the XMLHttpRequest to get the content of a file.</h2>
+<p>The content is written in JSON format, and can easily be converted into a JavaScript object.</p>
+
+<p id="demo"></p>
+
+<script>
+    
 var jsonData = [{person:"me", age :"30"},{person:"you",age:"25"}];
 
 for(var obj in jsonData){
     if(jsonData.hasOwnProperty(obj)){
-    for(var prop in jsonData[obj]){
+      for(var prop in jsonData[obj]){
         if(jsonData[obj].hasOwnProperty(prop)){
            alert(prop + ':' + jsonData[obj][prop]);
-        }
-    }
-}
-}
+        }   // end of if statement
+      }  // end of inner for loop
+    }  // end of outer if statement
+}  //end of outer for loop
+    
+</script>
+
+    <p>alert example</p>
+
+    </body>
+</html>
