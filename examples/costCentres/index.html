@@ -1,22 +1,27 @@
 <!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-  <title>Ghibli App101</title>
-  
-  <link href="https://fonts.googleapis.com/css?family=Dosis:400,700" rel="stylesheet">
-  <link href="style.css" rel="stylesheet">
-
-</head>
-
+<html>
 <body>
 
-  <div id="root"></div>
+<h2>Use the XMLHttpRequest to get the content of a file.</h2>
+<p>The content is written in JSON format, and can easily be converted into a JavaScript object.</p>
 
-  <script src="scripts.js"></script>
+<p id="demo"></p>
+
+<script>
+var xmlhttp = new XMLHttpRequest();
+
+xmlhttp.onreadystatechange = function() {
+  if (this.readyState == 4 && this.status == 200) {
+    var myObj = JSON.parse(this.responseText);
+    document.getElementById("demo").innerHTML = myObj.costCentre;
+  }
+};
+
+xmlhttp.open("GET", "demo.txt", true);
+xmlhttp.send();
+</script>
+
+<p>Take a look at <a href="demo.txt" target="_blank">demo.txt</a></p>
+
 </body>
-
 </html>
