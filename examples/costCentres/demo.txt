@@ -1,4 +1,4 @@
-"costCentres": [
+[
 {"systemId":3507,"code":"1111111","name":"BC Cost Centre","active":true,"accountCode":null,"version":{"masterVersion":1,"nullPasVersion":false}},
 {"systemId":3503,"code":"AB 6 W1","name":"AB 6 W1","active":true,"accountCode":null,"version":{"masterVersion":1,"nullPasVersion":false}},
 {"systemId":3502,"code":"ABW1","name":"ABW1","active":true,"accountCode":null,"version":{"masterVersion":1,"nullPasVersion":false}},
