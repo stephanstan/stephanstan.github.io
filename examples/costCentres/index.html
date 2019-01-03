@@ -14,14 +14,8 @@ xmlhttp.onreadystatechange = function() {
   if (this.readyState == 4 && this.status == 200) {
     var myObj = JSON.parse(this.responseText);
     
-  for (i in myObj.[0]) {
-     x += "<h2>" + myObj.name[i] + "</h2><br>";
-  }
-//}
     
-//    document.getElementById("demo").innerHTML = myObj;
-      document.getElementById("demo").innerHTML = x;
-  }
+    document.getElementById("demo").innerHTML = myObj;
 };
 
 xmlhttp.open("GET", "demo.txt", true);
