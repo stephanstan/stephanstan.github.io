@@ -48,3 +48,8 @@ npm start
 [javascript documentation - good starting point](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 [json validator](https://jsonformatter.curiousconcept.com/)
+
+
+javascript examples - from local repository
+
+[altert example](https://stephanstan.github.io/examples/alertexample/index.html)
