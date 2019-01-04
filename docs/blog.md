@@ -46,3 +46,11 @@ npm start
 2018-01-03
 
 [javascript documentation - good starting point](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+[json validator](https://jsonformatter.curiousconcept.com/)
+
+[google drive git help file](https://drive.google.com/drive/my-drive)
+
+javascript examples - from local repository
+
+[altert example](https://stephanstan.github.io/examples/alertexample/index.html)
