@@ -54,3 +54,5 @@ npm start
 javascript examples - from local repository
 
 [altert example](https://stephanstan.github.io/examples/alertexample/index.html)
+
+[file Content](https://stephanstan.github.io/examples/fileContent/) - from https://www.w3schools.com/js/js_json_arrays.asp
