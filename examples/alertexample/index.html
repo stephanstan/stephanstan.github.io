@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>upon rendering the page alerts show up</h2>
+<p>refresh the page to see the alerts again.</p>
+
+<p id="demo"></p>
+
+<script>
+    
+var jsonData = [{person:"me", age :"30"},{person:"you",age:"25"}];
+
+for(var obj in jsonData){
+    if(jsonData.hasOwnProperty(obj)){
+      for(var prop in jsonData[obj]){
+        if(jsonData[obj].hasOwnProperty(prop)){
+           alert(prop + ':' + jsonData[obj][prop]);
+        }   // end of if statement
+      }  // end of inner for loop
+    }  // end of outer if statement
+}  //end of outer for loop
+    
+</script>
+
+    <p>alert example</p>
+
+    </body>
+</html>

@@ -41,3 +41,8 @@ npm start
 [on the road to react tutorial](https://www.robinwieruch.de/the-road-to-learn-react/)
 
 [how to connect to an API with Javascript](https://www.taniarascia.com/how-to-connect-to-an-api-with-javascript/)
+
+
+2018-01-03
+
+[javascript documentation - good starting point](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
