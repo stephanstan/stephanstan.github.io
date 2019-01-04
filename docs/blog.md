@@ -46,3 +46,5 @@ npm start
 2018-01-03
 
 [javascript documentation - good starting point](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+[json validator](https://jsonformatter.curiousconcept.com/)
