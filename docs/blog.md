@@ -56,3 +56,8 @@ javascript examples - from local repository
 [altert example](https://stephanstan.github.io/examples/alertexample/index.html)
 
 [file Content](https://stephanstan.github.io/examples/fileContent/) - from https://www.w3schools.com/js/js_json_arrays.asp
+
+
+2019-02-06
+
+[neo4j_notes](https://stephanstan.github.io/docs/neo4j_notes.md)
