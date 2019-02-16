@@ -61,3 +61,5 @@ javascript examples - from local repository
 2019-02-06
 
 [neo4j_notes](https://stephanstan.github.io/docs/neo4j_notes.md)
+
+[git command help](https://dzone.com/articles/useful-git-commands?edition=451200&utm_source=Weekly%20Digest&utm_medium=email&utm_campaign=Weekly%20Digest%202019-02-06)
