@@ -17,9 +17,10 @@ npm
    New major version of npm available! 5.6.0 -> 6.5.0
 Changelog: https://github.com/npm/cli/releases/tag/v6.5.0
 Run to update npm
- 
->npm install -g npm
 
+'''
+>npm install -g npm
+'''
             PS C:\aatemp> npm install -g npm
 C:\Users\stephan.stan\AppData\Roaming\npm\npx -> C:\Users\stephan.stan\AppData\Roaming\npm\node_modules\npm\bin\npx-cli.
 js
