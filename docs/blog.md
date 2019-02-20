@@ -16,8 +16,11 @@ npm
 
    New major version of npm available! 5.6.0 -> 6.5.0
 Changelog: https://github.com/npm/cli/releases/tag/v6.5.0
-            Run npm install -g npm to update!
-            
+Run to update npm
+
+```
+>npm install -g npm
+```
             PS C:\aatemp> npm install -g npm
 C:\Users\stephan.stan\AppData\Roaming\npm\npx -> C:\Users\stephan.stan\AppData\Roaming\npm\node_modules\npm\bin\npx-cli.
 js
@@ -61,3 +64,7 @@ javascript examples - from local repository
 2019-02-06
 
 [neo4j_notes](https://stephanstan.github.io/docs/neo4j_notes.md)
+
+[git command help](https://dzone.com/articles/useful-git-commands?edition=451200&utm_source=Weekly%20Digest&utm_medium=email&utm_campaign=Weekly%20Digest%202019-02-06)
+
+[dzone website - useful articles to read](https://dzone.com/)
