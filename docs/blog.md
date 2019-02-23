@@ -11,6 +11,7 @@ React Notes
 
 [mostBasicReast.html from most basic example](https://stephanstan.github.io/examples/mostBasicReact.html)
 
+[create-react-app github reference readme](https://github.com/facebook/create-react-app)
 
 npm
 
