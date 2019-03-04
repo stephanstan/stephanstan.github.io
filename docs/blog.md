@@ -73,3 +73,9 @@ javascript examples - from local repository
 [git command help](https://dzone.com/articles/useful-git-commands?edition=451200&utm_source=Weekly%20Digest&utm_medium=email&utm_campaign=Weekly%20Digest%202019-02-06)
 
 [dzone website - useful articles to read](https://dzone.com/)
+
+2019-03-03
+
+Play framework - for Web Apps
+
+[Play! web app framework main download](https://www.playframework.com/)
