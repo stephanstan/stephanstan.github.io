@@ -11,7 +11,7 @@ width: 100%
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script>
 var apiurl,myresult,apiurl_size,selected_size;
-apiurl = "https://api.flickr.com/services/rest/?method=flickr.photos.getRecent&api_key=ca370d51a054836007519a00ff4ce59e&per_page=10&format=json&nojsoncallback=1";
+apiurl = "https://api.flickr.com/services/rest/?method=flickr.photos.getRecent&api_key=0e1057ae371f7ae7143bf3078632622d&per_page=10&format=json&nojsoncallback=1";
 $(document).ready(function(){
 $("#sq").click(function(){
 selected_size=75;
@@ -46,7 +46,7 @@ $(document).ready(function(){
 $('#button').click(function(){
 $.getJSON(apiurl,function(json){
 $.each(json.photos.photo,function(i,myresult){
-apiurl_size = "https://api.flickr.com/services/rest/?method=flickr.photos.getSizes&api_key=ca370d51a054836007519a00ff4ce59e&photo_id="+myresult.id+"&format=json&nojsoncallback=1";
+apiurl_size = "https://api.flickr.com/services/rest/?method=flickr.photos.getSizes&api_key=0e1057ae371f7ae7143bf3078632622d&photo_id="+myresult.id+"&format=json&nojsoncallback=1";
 $.getJSON(apiurl_size,function(size){
 $.each(size.sizes.size,function(i,myresult_size){
 if(myresult_size.width==selected_size){
