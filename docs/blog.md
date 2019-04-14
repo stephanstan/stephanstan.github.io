@@ -86,7 +86,7 @@ Play framework - for Web Apps
 
 How to create an empty file in windows 10 powershell
 
-'''
+```
  E:\aatemp\javascripting> $null > introduction.js
  
- '''
+```
