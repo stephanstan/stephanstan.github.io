@@ -90,3 +90,14 @@ How to create an empty file in windows 10 powershell
  E:\aatemp\javascripting> $null > introduction.js
  
 ```
+
+Better to use a linux distribution within windows
+
+[initialize linux within windows 10 - Ubuntu](https://docs.microsoft.com/en-us/windows/wsl/initialize-distro)
+
+```
+
+/mnt/c/
+
+```
+
