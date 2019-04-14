@@ -79,3 +79,14 @@ javascript examples - from local repository
 Play framework - for Web Apps
 
 [Play! web app framework main download](https://www.playframework.com/)
+
+
+
+2019-04-13
+
+How to create an empty file in windows 10 powershell
+
+'''
+ E:\aatemp\javascripting> $null > introduction.js
+ 
+ '''
