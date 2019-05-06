@@ -15,6 +15,9 @@
 
 [reactjs home](https://reactjs.org/)
 
+[react_notes](https://stephanstan.github.io/docs/react_notes.md)
+
+
 ## npm
 
    New major version of npm available! 5.6.0 -> 6.5.0
