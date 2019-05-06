@@ -13,6 +13,8 @@ React Notes
 
 [create-react-app github reference readme](https://github.com/facebook/create-react-app)
 
+[reactjs home](https://reactjs.org/)
+
 npm
 
    New major version of npm available! 5.6.0 -> 6.5.0
