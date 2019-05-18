@@ -236,47 +236,57 @@
 </script>
 </div>
 
-    <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-bottom">
-    <a class="navbar-brand" href="#">Web References</a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar2" aria-controls="navbar2" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-    </button>
+ <script>
+.dropbtn {
+  background-color: #3498DB;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
 
-    <div class="collapse navbar-collapse dropup" id="navbar2">
-        <ul class="navbar-nav mr-auto">
-            <li class="nav-item active">
-                <a class="nav-link" href="http://www3.telus.net/stephanstan">Home <span class="sr-only">(current)</span></a>
-            </li>
-            <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="https://example.com" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Financial</a>
-                <div class="dropdown-menu" aria-labelledby="dropdown01">
-                    <a class="dropdown-item" href="https://www.cibconline.cibc.com">CIBC</a>
-                    <a class="dropdown-item" href="https://www.tangerine.ca/en/index.html">Tangerine</a>
-                    <a class="dropdown-item" href="https://www.paypal.com/">PayPal</a>
-                    <a class="dropdown-item" href="https://www.canada.ca/en/revenue-agency.html">Canada Revenue Agency</a>
-                </div>
-            </li>
+.dropup {
+  position: relative;
+  display: inline-block;
+}
 
-            <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="https://example.com" id="dropdown02" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Utilities</a>
-                <div class="dropdown-menu" aria-labelledby="dropdown01">
-                    <a class="dropdown-item" href="https://www.enmax.com">Enmax</a>
-                    <a class="dropdown-item" href="https://outages.enmax.com/portal/#">Enmax Power Outage information</a>
-                    <a class="dropdown-item" href="https://cityonline.calgary.ca">Calgary online</a>
-                </div>
-            </li>
+.dropup-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  bottom: 50px;
+  z-index: 1;
+}
 
-           <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="https://example.com" id="dropdown11" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Real Estate</a>
-                <div class="dropdown-menu" aria-labelledby="dropdown01">
-                    <a class="dropdown-item" href="http://www.albertalandlord.org/resources.html">Landlord / Tenant Resources</a>
-                    <a class="dropdown-item" href="http://comfree.com">Commission Free transactions</a>
-                </div>
-            </li>
-        
-        </ul>
-    </div>
-</nav>
+.dropup-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
 
-    </body>
+.dropup-content a:hover {background-color: #ccc}
+
+.dropup:hover .dropup-content {
+  display: block;
+}
+
+.dropup:hover .dropbtn {
+  background-color: #2980B9;
+}
+</script>
+
+<div class="dropup">
+  <button class="dropbtn">Dropup</button>
+  <div class="dropup-content">
+    <a href="#">Link 1</a>
+    <a href="#">Link 2</a>
+    <a href="#">Link 3</a>
+  </div>
+</div>
+
+    
+    
+ </body>
 </html>
