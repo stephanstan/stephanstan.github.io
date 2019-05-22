@@ -1,6 +1,6 @@
-##using jmeter 5.1.1
+## using jmeter 5.1.1
 
-#3how to increase font size
+## 3how to increase font size
 
 [change font for jmeter gui](https://stackoverflow.com/questions/36899553/how-to-change-font-size-for-jmeter)
 
