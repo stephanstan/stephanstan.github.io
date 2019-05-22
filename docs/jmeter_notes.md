@@ -16,3 +16,7 @@ jmeter.hidpi.mode=true
 # Suggested value for HiDPI
 jmeter.hidpi.scale.factor=2.0
 ```
+
+## using regular expressions with Jmeter
+
+[Using-RegEx-Regular-Expression-Extractor-with-JMeter](https://guide.blazemeter.com/hc/en-us/articles/207421325-Using-RegEx-Regular-Expression-Extractor-with-JMeter)
