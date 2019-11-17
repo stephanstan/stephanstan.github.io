@@ -8,3 +8,5 @@ This site was formated using [GitHub markdown formatting](https://help.github.co
 [information with tables](https://help.github.com/articles/organizing-information-with-tables/)
 
 [blog example](docs/blog.md)
+
+[LibrCAD documentation](docs/librecad.md)
