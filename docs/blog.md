@@ -95,8 +95,9 @@ Better to use a linux distribution within windows
 [initialize linux within windows 10 - Ubuntu](https://docs.microsoft.com/en-us/windows/wsl/initialize-distro)
 
 ```
-
 /mnt/c/
-
 ```
 
+## Ansible - automated deployment of software
+
+[ansible intro guide](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html#installation-guide)
