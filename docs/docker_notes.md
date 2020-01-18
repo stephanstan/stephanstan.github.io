@@ -25,3 +25,4 @@ docker container ls
 docker container ls --all
 docker container ls -aq
 ```
+[install jenkins on windows](https://jenkins.io/doc/book/installing/)
