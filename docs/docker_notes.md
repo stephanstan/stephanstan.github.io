@@ -4,7 +4,7 @@
 
 [docker v17.12](https://docs.docker.com/v17.12/)
 
-'''
+```
 ## List Docker CLI commands
 docker
 docker container --help
@@ -24,4 +24,4 @@ docker image ls
 docker container ls
 docker container ls --all
 docker container ls -aq
-'''
+```
