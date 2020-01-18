@@ -9,6 +9,9 @@
 
 [react_notes](react_notes.md)
 
+2020-01-17
+## Docker Notes
+[Docker Notes](docker_notes.md)
 
 ## npm
 
