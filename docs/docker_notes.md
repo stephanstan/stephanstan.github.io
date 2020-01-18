@@ -246,3 +246,5 @@ Your <docker-container-name> can be obtained using the docker container ls comma
 
 docker container logs jenkins-blueocean
 ```
+
+[jenkins tutorial current progress](https://jenkins.io/doc/tutorials/build-a-java-app-with-maven/)
