@@ -1,13 +1,16 @@
 <details open>
-    <summary>2018-12-19 - introduced to Scott Joplin</summary>
+<summary>2018-12-19 - introduced to Scott Joplin</summary>
  <ol>
 <li>2019-12-23
  </ol>    
 </details>
-## React Notes
 
-
-[react_notes](react_notes.md)
+<details open>
+<summary>## React Notes</summary>
+ <ol>
+<li>[react_notes](react_notes.md)
+</ol>    
+</details>
 
 2020-01-17
 ## Docker Notes
