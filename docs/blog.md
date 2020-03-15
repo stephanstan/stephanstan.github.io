@@ -1,9 +1,9 @@
-
-2018-12-19 - introduced to Scott Joplin
-
-
-2019-12-23
-
+<details open>
+    <summary>2018-12-19 - introduced to Scott Joplin</summary>
+ <ol>
+<li>2019-12-23
+ </ol>    
+</details>
 ## React Notes
 
 
