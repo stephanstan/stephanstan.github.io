@@ -7,9 +7,8 @@
 
 <details open>
 <summary>## React Notes</summary>
- <ol>
-<li>[react_notes](react_notes.md)</li>
-</ol>    
+
+[react_notes](react_notes.md)    
 </details>
 
 2020-01-17
