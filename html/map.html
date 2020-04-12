@@ -8,10 +8,13 @@
 
 <script>
 function myMap() {
+var myCentre = new google.maps.LatLng(51,-114);  
 var mapProp= {
-  center:new google.maps.LatLng(51,-114),
-  zoom:10,
+  center:myCentre,
+  zoom:11,
 };
+var marker = new google.maps.Marker({position: myCentre});
+marker.setMap(map);
 var map = new google.maps.Map(document.getElementById("googleMap"),mapProp);
 }
 </script>
