@@ -8,14 +8,15 @@
 
 <script>
 function myMap() {
-var myCentre = new google.maps.LatLng(51.05,-114.05);  
+var myCentre = new google.maps.LatLng(51.10,-114.05);  
 var mapProp= {
   center:myCentre,
   zoom:13,
 };
 var marker = new google.maps.Marker({
   position: myCentre,
-  animation:google.maps.Animation.DROP});
+  animation:google.maps.Animation.DROP,
+  title:"Treasure here!"});
 
 var map = new google.maps.Map(document.getElementById("googleMap"),mapProp);
 marker.setMap(map);
