@@ -6,9 +6,10 @@
 
 <div id="googleMap" style="width:100%;height:500px;"></div>
 
+
 <script>
 function myMap() {
-var myCentre = new google.maps.LatLng(51.07,-123.0);  
+var myCentre = new google.maps.LatLng(50.322612, -119.242497);  
 var mapProp= {
   center:myCentre,
   zoom:13,
@@ -25,7 +26,7 @@ var marker = new google.maps.Marker({
   strokeOpacity:0.8,
   strokeWeight:2,
   fillColor:"#0000FF",
-  fillOpacity:0.4
+  fillOpacity:0.1
 });
 var map = new google.maps.Map(document.getElementById("googleMap"),mapProp);
 marker.setMap(map);
