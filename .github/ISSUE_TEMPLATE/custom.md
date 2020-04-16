@@ -10,7 +10,7 @@ assignees: ''
 ## TL;DR
 
 ### Article Link
-[]()
+[](url)
 ### Author
 
 ## Key Takeaways
