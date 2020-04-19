@@ -1,5 +1,5 @@
 ---
-name: Custom issue template
+name: Interesting URLS and ideas
 about: Describe this issue template's purpose here.
 title: ''
 labels: ''
