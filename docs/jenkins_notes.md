@@ -18,3 +18,9 @@ java -jar jenkins.war
 ```
 http://localhost:8080/login?from=%2F
 ```
+## file locations
+
+```
+c:\workspace\jenkins\jenkins.war
+C:\Users\steph\.jenkins   - installation  files, can be deleted or saved
+```
