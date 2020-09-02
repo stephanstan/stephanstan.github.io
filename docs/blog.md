@@ -108,6 +108,9 @@ Better to use a linux distribution within windows
 [ansible intro guide](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html#installation-guide)
 
 
+
+2020-09-01
+
 ## Jenkins
 following Plurasight tutorial
 
