@@ -106,3 +106,9 @@ Better to use a linux distribution within windows
 ## Ansible - automated deployment of software
 
 [ansible intro guide](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html#installation-guide)
+
+
+## Jenkins
+following Plurasight tutorial
+
+[Jenkins Notes](jenkins_notes.md)
