@@ -28,3 +28,7 @@ C:\Users\steph\.jenkins   - installation  files, can be deleted or saved
 ```
 stephanstan / q1w2e3r4
 ```
+## Jenkins as as Docker Image
+```
+https://hub.docker.com/r/jenkins/jenkins
+```
