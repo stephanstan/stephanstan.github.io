@@ -31,4 +31,7 @@ stephanstan / q1w2e3r4
 ## Jenkins as as Docker Image
 ```
 https://hub.docker.com/r/jenkins/jenkins
+docker pull jenkins/jenkins:lts
+docker run -p 8090:8080 -p 50000:50000 jenkins/jenkins:lts
+http://localhost:8090/
 ```
