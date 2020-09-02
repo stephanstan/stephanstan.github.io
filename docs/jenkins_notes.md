@@ -9,3 +9,7 @@
 iex "& { $(irm https://aka.ms/install-powershell.ps1) } -UseMSI"
 ```
 
+## download Jenkins war and run
+```
+java -jar jenkins.war
+```
