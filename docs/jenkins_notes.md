@@ -6,10 +6,15 @@
 [power shell update](https://www.addictivetips.com/windows-tips/update-to-powershell-7-0-on-windows-10/)
 
 ```
-iex "& { $(irm https://aka.ms/install-powershell.ps1) } -UseMSI"
+iex "& { $(irm https://aka.ms/install-powershell.ps1) } -UseMSIjen
 ```
 
 ## download Jenkins war and run
 ```
 java -jar jenkins.war
+```
+
+## Jenkins home in browser
+```
+http://localhost:8080/login?from=%2F
 ```
