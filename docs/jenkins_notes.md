@@ -1,3 +1,3 @@
 ## Jenkins
 
-[Jenkins downloads](https://jenkins.io)
+[Jenkins downloads](https://jenkins.io/download)
