@@ -26,5 +26,5 @@ C:\Users\steph\.jenkins   - installation  files, can be deleted or saved
 ```
 ## setup admin user
 ```
-stephan.stan / q1w2e3r4
+stephanstan / q1w2e3r4
 ```
