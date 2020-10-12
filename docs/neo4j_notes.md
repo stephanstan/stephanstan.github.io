@@ -7,3 +7,5 @@ where to place import files
 [missing-server-jvm error](https://stackoverflow.com/questions/18123144/missing-server-jvm-java-jre7-bin-server-jvm-dll)
 
 [CYPHER CSV LOAD how to](https://neo4j.com/docs/cypher-manual/current/clauses/load-csv/#csv-file-format)
+
+[ community neo4j - google login](https://community.neo4j.com/)
