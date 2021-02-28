@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="262fc2f6-5623-4249-80c7-c3810940bea9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/examples/w3schools/firstJavaScript/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/rdno_logo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/w3schools/firstJavaScript/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/examples/w3schools/firstJavaScript/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,8 +22,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/examples/w3schools/firstJavaScript/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+            <state relative-caret-position="238">
+              <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -78,15 +79,7 @@
             <path>
               <item name="stephanstan.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="stephanstan.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="examples" type="462c0819:PsiDirectoryNode" />
-              <item name="w3schools" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="stephanstan.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="stephanstan.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="examples" type="462c0819:PsiDirectoryNode" />
-              <item name="w3schools" type="462c0819:PsiDirectoryNode" />
-              <item name="firstJavaScript" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -142,7 +135,7 @@
       <workItem from="1603853040334" duration="18000" />
       <workItem from="1603853196312" duration="196000" />
       <workItem from="1610827491834" duration="780000" />
-      <workItem from="1614477015158" duration="1625000" />
+      <workItem from="1614477015158" duration="3149000" />
     </task>
     <task id="LOCAL-00001" summary="no longer needed - clean up">
       <created>1614478816060</created>
@@ -158,15 +151,21 @@
       <option name="project" value="LOCAL" />
       <updated>1614479344038</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="https://www.w3schools.com/js/tryit.asp?filename=tryjs_myfirst">
+      <created>1614479605135</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1614479605135</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1625000" />
+    <option name="totallyTimeSpent" value="3149000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="20" width="1260" height="640" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24938676" />
@@ -193,13 +192,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="no longer needed - clean up" />
     <MESSAGE value="no longer working - clean up" />
-    <option name="LAST_COMMIT_MESSAGE" value="no longer working - clean up" />
+    <MESSAGE value="https://www.w3schools.com/js/tryit.asp?filename=tryjs_myfirst" />
+    <option name="LAST_COMMIT_MESSAGE" value="https://www.w3schools.com/js/tryit.asp?filename=tryjs_myfirst" />
   </component>
   <component name="WindowStateProjectService">
     <state x="232" y="0" key="new project wizard" timestamp="1610828260122">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="232" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1610828260122" />
+  </component>
+  <component name="XPathView.XPathProjectComponent">
+    <history />
+    <find-history />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/examples/pontus/index.html">
@@ -212,8 +216,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/examples/w3schools/firstJavaScript/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        <state relative-caret-position="238">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
         </state>
       </provider>
     </entry>
