@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="262fc2f6-5623-4249-80c7-c3810940bea9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/space_bootsrap/carousel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/space_bootsrap/carousel.rtl.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/space_bootsrap/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -85,6 +86,11 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\workspace\stephanstan.github.io\space_bootsrap" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
@@ -104,7 +110,7 @@
       <workItem from="1616355225419" duration="10000" />
       <workItem from="1641013519812" duration="197000" />
       <workItem from="1641063076132" duration="909000" />
-      <workItem from="1641066961289" duration="846000" />
+      <workItem from="1641066961289" duration="1870000" />
     </task>
     <task id="LOCAL-00001" summary="no longer needed - clean up">
       <created>1614478816060</created>
@@ -127,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614479605135</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="deleted rtl example">
+      <created>1641068067171</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1641068067171</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -162,13 +175,9 @@
     <MESSAGE value="no longer needed - clean up" />
     <MESSAGE value="no longer working - clean up" />
     <MESSAGE value="https://www.w3schools.com/js/tryit.asp?filename=tryjs_myfirst" />
-    <option name="LAST_COMMIT_MESSAGE" value="https://www.w3schools.com/js/tryit.asp?filename=tryjs_myfirst" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="232" y="0" key="new project wizard" timestamp="1610828260122">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="232" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1610828260122" />
+    <MESSAGE value="straight from example" />
+    <MESSAGE value="deleted rtl example" />
+    <option name="LAST_COMMIT_MESSAGE" value="deleted rtl example" />
   </component>
   <component name="XPathView.XPathProjectComponent">
     <history />
