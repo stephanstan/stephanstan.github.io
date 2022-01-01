@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="262fc2f6-5623-4249-80c7-c3810940bea9" name="Default Changelist" comment="" />
+    <list default="true" id="262fc2f6-5623-4249-80c7-c3810940bea9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/space_bootsrap/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/space_bootsrap/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,7 +109,7 @@
       <workItem from="1616355225419" duration="10000" />
       <workItem from="1641013519812" duration="197000" />
       <workItem from="1641063076132" duration="909000" />
-      <workItem from="1641066961289" duration="6264000" />
+      <workItem from="1641066961289" duration="7152000" />
     </task>
     <task id="LOCAL-00001" summary="no longer needed - clean up">
       <created>1614478816060</created>
@@ -172,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641075163594</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="virtual telescopes online upadated image size &#10;unconstrained">
+      <created>1641075429191</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1641075429191</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -214,7 +223,8 @@
     <MESSAGE value="virtual telescopes online" />
     <MESSAGE value="virtual telescopes online upadated url and image" />
     <MESSAGE value="virtual telescopes online upadated image size" />
-    <option name="LAST_COMMIT_MESSAGE" value="virtual telescopes online upadated image size" />
+    <MESSAGE value="virtual telescopes online upadated image size &#10;unconstrained" />
+    <option name="LAST_COMMIT_MESSAGE" value="virtual telescopes online upadated image size &#10;unconstrained" />
   </component>
   <component name="XPathView.XPathProjectComponent">
     <history />
