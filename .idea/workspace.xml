@@ -107,7 +107,7 @@
       <workItem from="1616355225419" duration="10000" />
       <workItem from="1641013519812" duration="197000" />
       <workItem from="1641063076132" duration="909000" />
-      <workItem from="1641066961289" duration="5941000" />
+      <workItem from="1641066961289" duration="6264000" />
     </task>
     <task id="LOCAL-00001" summary="no longer needed - clean up">
       <created>1614478816060</created>
@@ -165,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641074724739</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="virtual telescopes online upadated image size">
+      <created>1641075163594</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1641075163594</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -206,7 +213,8 @@
     <MESSAGE value="adding carousel example" />
     <MESSAGE value="virtual telescopes online" />
     <MESSAGE value="virtual telescopes online upadated url and image" />
-    <option name="LAST_COMMIT_MESSAGE" value="virtual telescopes online upadated url and image" />
+    <MESSAGE value="virtual telescopes online upadated image size" />
+    <option name="LAST_COMMIT_MESSAGE" value="virtual telescopes online upadated image size" />
   </component>
   <component name="XPathView.XPathProjectComponent">
     <history />
