@@ -110,7 +110,7 @@
       <workItem from="1616355225419" duration="10000" />
       <workItem from="1641013519812" duration="197000" />
       <workItem from="1641063076132" duration="909000" />
-      <workItem from="1641066961289" duration="3105000" />
+      <workItem from="1641066961289" duration="5281000" />
     </task>
     <task id="LOCAL-00001" summary="no longer needed - clean up">
       <created>1614478816060</created>
@@ -147,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641068907913</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="adding carousel example">
+      <created>1641070390646</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1641070390646</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -185,7 +192,8 @@
     <MESSAGE value="straight from example" />
     <MESSAGE value="deleted rtl example" />
     <MESSAGE value="starter template" />
-    <option name="LAST_COMMIT_MESSAGE" value="starter template" />
+    <MESSAGE value="adding carousel example" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding carousel example" />
   </component>
   <component name="XPathView.XPathProjectComponent">
     <history />
