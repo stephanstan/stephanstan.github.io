@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="262fc2f6-5623-4249-80c7-c3810940bea9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/space_bootsrap/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/space_bootsrap/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/space_bootsrap/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +110,7 @@
       <workItem from="1616355225419" duration="10000" />
       <workItem from="1641013519812" duration="197000" />
       <workItem from="1641063076132" duration="909000" />
-      <workItem from="1641066961289" duration="1870000" />
+      <workItem from="1641066961289" duration="3105000" />
     </task>
     <task id="LOCAL-00001" summary="no longer needed - clean up">
       <created>1614478816060</created>
@@ -140,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641068067171</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="starter template">
+      <created>1641068907913</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1641068907913</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -177,7 +184,8 @@
     <MESSAGE value="https://www.w3schools.com/js/tryit.asp?filename=tryjs_myfirst" />
     <MESSAGE value="straight from example" />
     <MESSAGE value="deleted rtl example" />
-    <option name="LAST_COMMIT_MESSAGE" value="deleted rtl example" />
+    <MESSAGE value="starter template" />
+    <option name="LAST_COMMIT_MESSAGE" value="starter template" />
   </component>
   <component name="XPathView.XPathProjectComponent">
     <history />
